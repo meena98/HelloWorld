@@ -1,0 +1,12 @@
+ Volume in drive C is OS
+ Volume Serial Number is 4496-46B0
+
+ Directory of C:\Users\sriramm\Desktop\javaproject
+
+01/02/2019  12:57 PM    <DIR>          .
+01/02/2019  12:57 PM    <DIR>          ..
+01/02/2019  11:42 AM               409 apple.class
+01/02/2019  10:16 AM                91 apple.java
+01/02/2019  12:57 PM                 0 read.txt
+               3 File(s)            500 bytes
+               2 Dir(s)  302,763,917,312 bytes free
